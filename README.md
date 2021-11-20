@@ -1,6 +1,6 @@
-# Desafio proposto no curso Ignite - Trilha NodeJS (backend) da Rocketseat 
+# Desafio proposto na Trilha NodeJS (backend) - Conceitos do NodeJS da Rocketseat 
 
-# conceitos-do-nodejs
+
 
 # 💻 Sobre o desafio
 
