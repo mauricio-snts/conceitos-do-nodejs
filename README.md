@@ -6,7 +6,7 @@
 
 O desafio é criar uma aplicação para treinar o que foi aprendido até agora no Node.js!
 
-Será uma aplicação para gerenciar tarefas (em inglês *todos*). Será permitida a criação de um usuário com `name` e `username`, bem como fazer o CRUD de *todos*:
+Será uma aplicação para gerenciar tarefas (em inglês todos). Será permitida a criação de um usuário com `name` e `username`, bem como fazer o CRUD de 'todos':
 
 - Criar um novo *todo*;
 - Listar todos os *todos*;
